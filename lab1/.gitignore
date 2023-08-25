@@ -1,0 +1,7 @@
+# Carpeta video
+videos/
+
+# Archivos .txt
+!texts 
+/texts/*
+!texts/171.txt
