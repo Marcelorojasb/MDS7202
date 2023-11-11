@@ -1,0 +1,9 @@
+fastparquet==2023.10.1
+matplotlib==3.7.1
+numpy==1.23.5
+pandas==1.5.3
+plotly==5.15.0
+pyarrow==9.0.0
+scipy==1.11.3
+seaborn==0.12.2
+sklearn==1.2.2
