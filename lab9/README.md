@@ -1,2 +1,2 @@
-* [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1n-9JD_wSluu_X1S1z1nc7fqlrjXIuQ-B?usp=sharing): Colab Laboratorio 9
+* [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BJJnK1771nad2TvWKAXm-EL6Yn8kMmLQ?usp=sharing): Colab Laboratorio 9
 
